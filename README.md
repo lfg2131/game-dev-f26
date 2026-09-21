@@ -289,3 +289,5 @@ Provider references: [OpenAI quickstart](https://developers.openai.com/api/docs/
 [OpenAI structured outputs](https://developers.openai.com/api/docs/guides/structured-outputs),
 [Anthropic Messages](https://platform.claude.com/docs/en/api/messages/create),
 [Anthropic structured outputs](https://platform.claude.com/docs/en/build-with-claude/structured-outputs).
+
+<!-- Local setup verified by lfg2131 -->
