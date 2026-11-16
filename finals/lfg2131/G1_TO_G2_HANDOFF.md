@@ -57,7 +57,7 @@ Bring:
 
 **Later G4 playtesting:** across G2→G4, observe **at least two distinct external players**, including a revised encounter after the combined G2/G3 review and before G4. Do not present the same person or synthetic run as a new external participant.
 
-## 4. Pre-approved design boundaries to test, not silently broaden
+## 4. Proposed design boundaries to test, pending G1 approval
 
 These are **proposals pending G1 approval**, not claims of implemented code:
 
